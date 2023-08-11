@@ -1,1 +1,3 @@
-# customer_segmentation_analysis
+# Customer Segmentation Analysis
+# Goal of the Project
+This project's goal is to carry out a customer segmentation analysis for a company that sells bicycles and cars. Create an RFM Model to perform customer segmentation. Recency, Frequency, and Monetary (RFM) analysis is a behavior-based method for segmenting customers. On the basis of their prior purchase transactions, it groups the customers. The customer segment was divided into 11 groups for this analysis. In order to increase sales revenue for the company, the analysis will assist in identifying which customer segments should be targeted. Tableau is used to create a sales dashboard for customer segmentation, and Python is used to evaluate and analyze the data quality.
